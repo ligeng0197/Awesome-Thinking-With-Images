@@ -1,12 +1,12 @@
 # Awesome-Thinking-With-Images
 
 <p align="center">
-  <img src="assets/image.png" width="70%">
+  <img src="assets/image.png" width="100%">
 </p>
 
-A **curated** list of research methods and datasets exploring **image thinking** — the capacity to perform reasoning with images. We focus particularly on methods and benchmarks designed for **fine-grained visual understanding** tasks, which refers to extremely challenging understanding problems where the input visual information is very complex or large, but the information involved in the question accounts for a very small proportion.
+A **curated** list of research methods and datasets exploring **image thinking** — the ability to perform reasoning with images. We focus particularly on methods and benchmarks designed for **fine-grained visual understanding** tasks, which refers to problems with **Dense, Cluttered, Complex Visual Input**, but only **Tiny, Subtle, Ambiguous Visual Regions Subsets** are useful for answering.
 
-This includes:  
+This includes:
 - Multimodal reasoning with visual context  
 - Visual chain-of-thought prompting  
 - Dynamic visual attention / focus adjustment  
