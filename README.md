@@ -1,7 +1,7 @@
 # Awesome-Thinking-With-Images
 
 <p align="center">
-  <img src="assets/image.png" width="50%">
+  <img src="assets/image.png" width="70%">
 </p>
 
 A **curated** list of research methods and datasets exploring **image thinking** — the capacity to perform reasoning with images. We focus particularly on methods and benchmarks designed for **fine-grained visual understanding** tasks, which refers to extremely challenging understanding problems where the input visual information is very complex or large, but the information involved in the question accounts for a very small proportion.
@@ -69,4 +69,4 @@ If you know any relevant papers, datasets, or demos, feel free to submit a pull 
 ## 🔍 Related Lists
 
 - [Awesome Multimodal LLMs](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
-- [Awesome Think with Images for LVLMs](https://github.com/zhaochen0110/Awesome_Think_With_Images) (A more generalized list, more than fine-grained visual understanding)
+- [Awesome Think with Images for LVLMs](https://github.com/zhaochen0110/Awesome_Think_With_Images) (A broader list covering more than just fine-grained visual understanding)
