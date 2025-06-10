@@ -43,6 +43,8 @@ Feel free to contribute! Pull requests and issues recommendation are welcome.
 | ![Star](https://img.shields.io/github/stars/None/None.svg?style=social&label=Star) <br> [**VLM-R: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought**](https://arxiv.org/abs/2505.16192) | arXiv | 2025-05 | N/A |
 | ![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/Pixel-Reasoner.svg?style=social&label=Star) <br> [**Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning**](https://arxiv.org/abs/2505.15966) | arXiv | 2025-05 | [GitHub](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) |
 | ![Star](https://img.shields.io/github/stars/Visual-Agent/DeepEyes.svg?style=social&label=Star) <br> [**DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning**](https://arxiv.org/abs/2505.14362) | arXiv | 2025-05 | [GitHub](https://github.com/Visual-Agent/DeepEyes) |
+| ![Star](https://img.shields.io/github/stars/zhaochen0110/OpenThinkIMG.svg?style=social&label=Star) <br> [**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**](https://arxiv.org/abs/2505.08617) | arXiv | 2025-05 | [GitHub](https://github.com/zhaochen0110/OpenThinkIMG) |
+
 
 
 
