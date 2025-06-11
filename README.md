@@ -24,6 +24,8 @@ Feel free to contribute! Pull requests and issues recommendation are welcome.
 |-------|-------|------|-----------|
 | ![Star](https://img.shields.io/github/stars/PKU-ICST-MIPL/DyFo_CVPR2025.svg?style=social&label=Star) <br> [**DyFo: A Training-Free Dynamic Focus Visual Search for Enhancing LMMs in Fine-Grained Visual Understanding**](https://arxiv.org/abs/2504.14920) | CVPR Highlight | 2025-04 | [GitHub](https://github.com/PKU-ICST-MIPL/DyFo_CVPR2025) |
 | ![Star](https://img.shields.io/github/stars/dreammr/rap.svg?style=social&label=Star) <br> [**Retrieval-Augmented Perception: High-Resolution Image Perception Meets Visual RAG**](https://arxiv.org/abs/2503.01222) | ICML | 2025-03 | [GitHub](https://github.com/dreammr/rap) |
+| ![Star](https://img.shields.io/github/stars/om-ai-lab/ZoomEye.svg?style=social&label=Star) <br> [**ZoomEye: Enhancing Multimodal LLMs with Human-Like Zooming Capabilities through Tree-Based Image Exploration**](https://arxiv.org/abs/2411.16044) | arXiv | 2024-11 | [GitHub](https://github.com/om-ai-lab/ZoomEye) |
+
 
 ---
 
@@ -36,7 +38,7 @@ Feel free to contribute! Pull requests and issues recommendation are welcome.
 
 ---
 
-### 🔹 RL-Enhanced or Instruction-Tuned Methods
+### 🔹 RL-Enhanced Methods
 
 | Paper | Venue | Date | Resources |
 |-------|-------|------|-----------|
