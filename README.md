@@ -22,6 +22,7 @@ Feel free to contribute! Pull requests and issues recommendation are welcome.
 
 | Paper | Venue | Date | Resources |
 |-------|-------|------|-----------|
+| ![Star](https://img.shields.io/github/stars/THUNLP-MT/VAT.svg?style=social&label=Star) <br> [**Visual Abstract Thinking Empowers Multimodal Reasoning**](https://arxiv.org/abs/2505.20164) | arXiv | 2025-05 | [GitHub](https://github.com/THUNLP-MT/VAT) |
 | ![Star](https://img.shields.io/github/stars/PKU-ICST-MIPL/DyFo_CVPR2025.svg?style=social&label=Star) <br> [**DyFo: A Training-Free Dynamic Focus Visual Search for Enhancing LMMs in Fine-Grained Visual Understanding**](https://arxiv.org/abs/2504.14920) | CVPR Highlight | 2025-04 | [GitHub](https://github.com/PKU-ICST-MIPL/DyFo_CVPR2025) |
 | ![Star](https://img.shields.io/github/stars/dreammr/rap.svg?style=social&label=Star) <br> [**Retrieval-Augmented Perception: High-Resolution Image Perception Meets Visual RAG**](https://arxiv.org/abs/2503.01222) | ICML | 2025-03 | [GitHub](https://github.com/dreammr/rap) |
 | ![Star](https://img.shields.io/github/stars/om-ai-lab/ZoomEye.svg?style=social&label=Star) <br> [**ZoomEye: Enhancing Multimodal LLMs with Human-Like Zooming Capabilities through Tree-Based Image Exploration**](https://arxiv.org/abs/2411.16044) | arXiv | 2024-11 | [GitHub](https://github.com/om-ai-lab/ZoomEye) |
@@ -45,6 +46,7 @@ Feel free to contribute! Pull requests and issues recommendation are welcome.
 | ![Star](https://img.shields.io/github/stars/None/None.svg?style=social&label=Star) <br> [**VLM-R: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought**](https://arxiv.org/abs/2505.16192) | arXiv | 2025-05 | N/A |
 | ![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/Pixel-Reasoner.svg?style=social&label=Star) <br> [**Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning**](https://arxiv.org/abs/2505.15966) | arXiv | 2025-05 | [GitHub](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) |
 | ![Star](https://img.shields.io/github/stars/Visual-Agent/DeepEyes.svg?style=social&label=Star) <br> [**DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning**](https://arxiv.org/abs/2505.14362) | arXiv | 2025-05 | [GitHub](https://github.com/Visual-Agent/DeepEyes) |
+| ![Star](https://img.shields.io/github/stars/Liuziyu77/Visual-ARFT.svg?style=social&label=Star) <br> [**Visual Agentic Reinforcement Fine-Tuning (Visual-ARFT)**](https://arxiv.org/abs/2505.14246) | arXiv | 2025-05 | [GitHub](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT) |
 | ![Star](https://img.shields.io/github/stars/zhaochen0110/OpenThinkIMG.svg?style=social&label=Star) <br> [**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**](https://arxiv.org/abs/2505.08617) | arXiv | 2025-05 | [GitHub](https://github.com/zhaochen0110/OpenThinkIMG) |
 
 
