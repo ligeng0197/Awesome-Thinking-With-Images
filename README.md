@@ -34,6 +34,7 @@ Feel free to contribute! Pull requests and issues recommendation are welcome.
 
 | Paper | Venue | Date | Resources |
 |-------|-------|------|-----------|
+| ![Star](https://img.shields.io/github/stars/steven-ccq/VisualReasoner.svg?style=social&label=Star) <br> [**From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis**](https://arxiv.org/abs/2406.19934) | arXiv | 2024-06 | [GitHub](https://github.com/steven-ccq/VisualReasoner) |
 | ![Star](https://img.shields.io/github/stars/penghao-wu/vstar.svg?style=social&label=Star) <br> [**V\*: Guided Visual Search as a Core Mechanism in Multimodal LLMs**](https://arxiv.org/abs/2312.14135) | CVPR | 2023-12 | [GitHub](https://github.com/penghao-wu/vstar) |
 
 
@@ -43,6 +44,7 @@ Feel free to contribute! Pull requests and issues recommendation are welcome.
 
 | Paper | Venue | Date | Resources |
 |-------|-------|------|-----------|
+| ![Star](https://img.shields.io/github/stars/AntResearchNLP/ViLaSR.svg?style=social&label=Star) <br> [**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**](https://arxiv.org/abs/2506.09965) | arXiv | 2025-06 | [GitHub](https://github.com/AntResearchNLP/ViLaSR) |
 | ![Star](https://img.shields.io/github/stars/None/None.svg?style=social&label=Star) <br> [**VLM-R: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought**](https://arxiv.org/abs/2505.16192) | arXiv | 2025-05 | N/A |
 | ![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/Pixel-Reasoner.svg?style=social&label=Star) <br> [**Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning**](https://arxiv.org/abs/2505.15966) | arXiv | 2025-05 | [GitHub](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) |
 | ![Star](https://img.shields.io/github/stars/Visual-Agent/DeepEyes.svg?style=social&label=Star) <br> [**DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning**](https://arxiv.org/abs/2505.14362) | arXiv | 2025-05 | [GitHub](https://github.com/Visual-Agent/DeepEyes) |
