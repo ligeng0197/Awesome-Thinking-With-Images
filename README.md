@@ -50,6 +50,7 @@ Feel free to contribute! Pull requests and issues recommendation are welcome.
 | Paper | Venue | Date | Resources |
 |-------|-------|------|-----------|
 | ![Star](https://img.shields.io/github/stars/AntResearchNLP/ViLaSR.svg?style=social&label=Star) <br> [**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**](https://arxiv.org/abs/2506.09965) | arXiv | 2025-06 | [GitHub](https://github.com/AntResearchNLP/ViLaSR) |
+| ![Star](https://img.shields.io/github/stars/Gabesarch/grounded-rl.svg?style=social&label=Star) <br> [**Grounded Reinforcement Learning for Visual Reasoning**](https://arxiv.org/abs/2505.23678) | arXiv | 2025-05 | [GitHub](https://github.com/Gabesarch/grounded-rl) |
 | ![Star](https://img.shields.io/github/stars/None/None.svg?style=social&label=Star) <br> [**VLM-R: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought**](https://arxiv.org/abs/2505.16192) | arXiv | 2025-05 | N/A |
 | ![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/Pixel-Reasoner.svg?style=social&label=Star) <br> [**Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning**](https://arxiv.org/abs/2505.15966) | arXiv | 2025-05 | [GitHub](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) |
 | ![Star](https://img.shields.io/github/stars/None/None.svg?style=social&label=Star) <br> [**Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL**](https://arxiv.org/abs/2505.15436) | arXiv | 2025-05 | N/A |
