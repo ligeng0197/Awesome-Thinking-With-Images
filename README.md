@@ -41,6 +41,7 @@ Feel free to contribute! Pull requests and issues recommendation are welcome.
 | ![Star](https://img.shields.io/github/stars/GuangyanS/Sys2-LLaVA.svg?style=social&label=Star) <br> [**Visual Agents as Fast and Slow Thinkers**](https://arxiv.org/abs/2408.08862) | ICLR 2025 | 2024-08 | [GitHub](https://github.com/GuangyanS/Sys2-LLaVA) |
 | ![Star](https://img.shields.io/github/stars/steven-ccq/VisualReasoner.svg?style=social&label=Star) <br> [**From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis**](https://arxiv.org/abs/2406.19934) | arXiv | 2024-06 | [GitHub](https://github.com/steven-ccq/VisualReasoner) |
 | ![Star](https://img.shields.io/github/stars/2toinf/IVM.svg?style=social&label=Star) <br> [**Instruction-Guided Visual Masking**](https://arxiv.org/abs/2405.19783) | NeurIPS | 2024-05 | [GitHub](https://github.com/2toinf/IVM) |
+| ![Star](https://img.shields.io/github/stars/THUDM/CogCoM.svg?style=social&label=Star) <br> [**COGCOM: A VISUAL LANGUAGE MODEL WITH CHAIN-OF-MANIPULATIONS REASONING**](https://arxiv.org/abs/2402.04236) | arXiv | 2024-02 | [GitHub](https://github.com/THUDM/CogCoM) |
 | ![Star](https://img.shields.io/github/stars/penghao-wu/vstar.svg?style=social&label=Star) <br> [**V\*: Guided Visual Search as a Core Mechanism in Multimodal LLMs**](https://arxiv.org/abs/2312.14135) | CVPR | 2023-12 | [GitHub](https://github.com/penghao-wu/vstar) |
 
 
