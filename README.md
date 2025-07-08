@@ -38,6 +38,7 @@ Feel free to contribute! Pull requests and issues recommendation are welcome.
 
 | Paper | Venue | Date | Resources |
 |-------|-------|------|-----------|
+| ![Star](https://img.shields.io/github/stars/GuangyanS/Sys2-LLaVA.svg?style=social&label=Star) <br> [**Visual Agents as Fast and Slow Thinkers**](https://arxiv.org/abs/2408.08862) | arXiv | 2024-08 | [GitHub](https://github.com/GuangyanS/Sys2-LLaVA) |
 | ![Star](https://img.shields.io/github/stars/steven-ccq/VisualReasoner.svg?style=social&label=Star) <br> [**From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis**](https://arxiv.org/abs/2406.19934) | arXiv | 2024-06 | [GitHub](https://github.com/steven-ccq/VisualReasoner) |
 | ![Star](https://img.shields.io/github/stars/2toinf/IVM.svg?style=social&label=Star) <br> [**Instruction-Guided Visual Masking**](https://arxiv.org/abs/2405.19783) | NeurIPS | 2024-05 | [GitHub](https://github.com/2toinf/IVM) |
 | ![Star](https://img.shields.io/github/stars/penghao-wu/vstar.svg?style=social&label=Star) <br> [**V\*: Guided Visual Search as a Core Mechanism in Multimodal LLMs**](https://arxiv.org/abs/2312.14135) | CVPR | 2023-12 | [GitHub](https://github.com/penghao-wu/vstar) |
@@ -51,6 +52,7 @@ Feel free to contribute! Pull requests and issues recommendation are welcome.
 |-------|-------|------|-----------|
 | ![Star](https://img.shields.io/github/stars/AntResearchNLP/ViLaSR.svg?style=social&label=Star) <br> [**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**](https://arxiv.org/abs/2506.09965) | arXiv | 2025-06 | [GitHub](https://github.com/AntResearchNLP/ViLaSR) |
 | ![Star](https://img.shields.io/github/stars/Gabesarch/grounded-rl.svg?style=social&label=Star) <br> [**Grounded Reinforcement Learning for Visual Reasoning**](https://arxiv.org/abs/2505.23678) | arXiv | 2025-05 | [GitHub](https://github.com/Gabesarch/grounded-rl) |
+| ![Star](https://img.shields.io/github/stars/zzzhhzzz/Ground-R1.svg?style=social&label=Star) <br> [**Ground-R1: Incentivizing Grounded Visual Reasoning via Reinforcement Learning**](https://arxiv.org/abs/2505.20272) | arXiv | 2025-05 | [GitHub](https://github.com/zzzhhzzz/Ground-R1) |
 | ![Star](https://img.shields.io/github/stars/None/None.svg?style=social&label=Star) <br> [**VLM-R: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought**](https://arxiv.org/abs/2505.16192) | arXiv | 2025-05 | N/A |
 | ![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/Pixel-Reasoner.svg?style=social&label=Star) <br> [**Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning**](https://arxiv.org/abs/2505.15966) | arXiv | 2025-05 | [GitHub](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) |
 | ![Star](https://img.shields.io/github/stars/None/None.svg?style=social&label=Star) <br> [**Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL**](https://arxiv.org/abs/2505.15436) | arXiv | 2025-05 | N/A |
@@ -69,8 +71,10 @@ Feel free to contribute! Pull requests and issues recommendation are welcome.
 
 | Dataset | Task | Resources |
 |-------|-------|-----------|
-| [**V\***](https://huggingface.co/datasets/craigwu/vstar_bench) | Attribute Recognition & Spatial Reasoning | [HuggingFace](https://huggingface.co/datasets/craigwu/vstar_bench) |
-| [**HR-Bench**](https://huggingface.co/datasets/DreamMr/HR-Bench) | Fine-grained Single/Cross-instance Perception | [HuggingFace](https://huggingface.co/datasets/DreamMr/HR-Bench) |
+| [**V\***](https://arxiv.org/abs/2312.14135) | Attribute Recognition & Spatial Reasoning | [HuggingFace](https://huggingface.co/datasets/craigwu/vstar_bench) |
+| [**HR-Bench**](https://arxiv.org/abs/2408.15556) | Fine-grained Single/Cross-instance Perception | [HuggingFace](https://huggingface.co/datasets/DreamMr/HR-Bench) |
+| [**MME-RealWorld**](https://arxiv.org/abs/2408.13257) | High-Resolution Real-World Scenarios | [HuggingFace](https://huggingface.co/datasets/yifanzhang114/MME-RealWorld) |
+
 
 
 ---
