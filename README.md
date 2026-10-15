@@ -74,6 +74,7 @@ Feel free to contribute! Pull requests and issues recommendation are welcome.
 
 | Paper | Venue | Date | Resources |
 |-------|-------|------|-----------|
+| ![Star](https://img.shields.io/github/stars/MCG-NJU/Video-o3.svg?style=social&label=Star) <br> [**Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**](https://arxiv.org/abs/2601.23224) | ICML 2026 | 2026-01 | [GitHub](https://github.com/MCG-NJU/Video-o3) |
 | ![Star](https://img.shields.io/github/stars/yfzhang114/Thyme.svg?style=social&label=Star) <br> [**Thyme: Think Beyond Images**](https://arxiv.org/abs/2508.11630) | arXiv | 2025-08 | [GitHub](https://github.com/yfzhang114/Thyme) |
 
 
